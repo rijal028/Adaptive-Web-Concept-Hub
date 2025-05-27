@@ -1,5 +1,6 @@
 # Noise-adiptive-image-protecion
-Algoritma perlindungan gambar berbasis noise adaptif untuk mencegah penyalahgunaan oleh AI tanpa mengganggu tampilan visual manusia.
+Adaptive noise-based image protection algorithm to prevent misuse by AI without affecting human visual perception."
+
 An adaptive noise-based image protection algorithm to prevent misuse by AI while preserving human visual quality.
 # Noise Adaptive Image Protection
 

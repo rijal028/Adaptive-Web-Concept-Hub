@@ -49,6 +49,7 @@ Email: rijal028official@gmail.com
 
 Untuk penjelasan yang lebih mendalam mengenai mekanisme dan arsitektur, silakan lihat dokumen berikut:
 
-* **[Bab 1: Detail Mekanisme Pertahanan](MECHANISM_DETAILS.md)**
-* **[Bab 2: Konsep Aplikasi Verifikasi](VERIFICATION_APP.md)**
+* **[Bab 1: AdaptiveSpiderWeb-MechanismDetails](MECHANISM_DETAILS.md)**
+* **[Bab 2: VerificationApplication-AdaptiveWeb
+Pub](VERIFICATION_APP.md)**
 * **[Bab 3: JOURNAL_RISET](JOURNAL_RISET.md)** 

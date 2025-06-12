@@ -3,53 +3,36 @@
 ### Concept by: Rijal Saepuloh
 ### Contact: rijal028official@gmail.com
 
-# About This Project
+## About This Project
 
 This project introduces an innovative conceptual framework called the Noise Adaptive Algorithm, a method for protecting digital images and videos from unauthorized use and manipulation by AI generative models (such as those used for deepfakes, AI-driven content generation, or training data extraction). The core principle is to achieve this protection without degrading the visual quality for human perception.
 
-With the rapid advancements in generative AI (like Google's Veo and similar technologies), the need to protect personal photos, artistic creations, and sensitive visual data is more urgent than ever. This project aims to contribute a novel approach towards responsible AI usage and data protection, striking a balance between leveraging AI for beneficial purposes and safeguarding against its misuse. The core of this algorithm features a unique, dynamic, and layered protective structure, briefly introduced below and detailed further in separate dedicated repositories.
+With the rapid advancements in generative AI (like Google's Veo and similar technologies), the need to protect personal photos, artistic creations, and sensitive visual data is more urgent than ever. This project aims to contribute a novel approach towards responsible AI usage and data protection.
 
-# Key Features
+## Key Features
 
-### a.  Intelligent Noise Embedding (via Adaptive Spider Web):
-The algorithm embeds a specially structured adaptive noise. This noise forms a sophisticated, multi-layered, and dynamic "Adaptive Spider Web" (Jaring Laba-Laba Adaptif) pattern, imperceptible to humans but designed to disrupt AI processes.
+* **Intelligent Noise Embedding (via Adaptive Spider Web):** Embeds a specially structured, dynamic noise pattern designed to disrupt AI processes while being imperceptible to humans.
+* **AI Recognition Toggle (User Control):** Users can conceptually choose whether their image output is "AI-Friendly" or "Protected".
+* **Human-Friendly Output:** The protection is designed to be invisible, with no visible watermarks or distortions.
+* **Screenshot Resilience (Conceptual):** The protective noise is embedded within the pixel data, intended to remain effective even if screenshotted.
 
-### b.  AI Recognition Toggle (User Control):
-Users can conceptually choose whether their image output is "AI-Friendly" (for beneficial AI uses) or "Protected" (with the adaptive noise applied).
+## Core Innovation & In-Depth Documentation
 
-### c.  Human-Friendly Output:
-The protection is designed to be imperceptible to human vision, with no visible watermarks or distortions, preserving the original image quality.
+The "Noise Adaptive Algorithm" achieves its protection through a unique, imperceptible "Adaptive Spider Web" structure. This is not random noise but a dynamically generated, multi-layered mesh that is centered on detected human subjects, adapts to its position, and is designed to make AI-generated outputs fail or become illogical.
 
-### d.  Screenshot Resilience (Conceptual):
-As the protective noise is embedded within the pixel data, it is intended to remain effective even if the image is screenshotted.
+For a more in-depth explanation of the mechanism, architecture, and the research behind this concept, please see the following documents:
 
-## Core Innovation:
+* **[Chapter 1: Defense Mechanism Details](MECHANISM_DETAILS.md)**
+* **[Chapter 2: Verification Application Concept](VERIFICATION_APP.md)**
+* **[Chapter 3: Research & Development Journal](JOURNAL_RISET.md)**
 
-The "Adaptive Spider Web" Concept (Brief Overview)
-The "Noise Adaptive Algorithm" achieves its protection through a unique, imperceptible "Adaptive Spider Web" structure. This is not random noise but a dynamically generated, multi-layered mesh that is:
+## Public Disclosure & Intent
 
-Centered on detected human subjects.
-Flexibly adapts its form based on the subject's position relative to the image frame.
-Designed to make AI-generated outputs fail or become illogical.
-Provides tamper-evidence if the web's structure is broken.
-A comprehensive explanation of the "Adaptive Spider Web" concept, including its layered architecture, dynamic behavior, handling of multiple subjects, secondary object protection, and the conceptual verification application, can be found in the following dedicated repositories:
+This project and its concepts are publicly disclosed on GitHub by Rijal Saepuloh as of June 2025. The primary purpose of this public disclosure is to establish prior art and to share these ideas with the broader community. This is done with the intent to foster discussion, further research, and potential development towards responsible AI.
 
+## Contact & Collaboration
 
-Public Disclosure & Intent
-This project and its concepts are publicly disclosed on GitHub by Rijal Saepuloh as of May 2025. The primary purpose of this public disclosure is to establish prior art and to share these ideas with the broader community. This is done with the intent to foster discussion, further research, and potential development towards responsible AI, especially given the current limitations in pursuing formal patent protection.
+This project is a contribution from an independent thinker with limited resources. If you are a researcher, developer, ethicist, policymaker, or an organization interested in discussing or collaborating on these concepts, please feel free to reach out.
 
-Files in This Main Repository
-README.md: This overview file.
-
-Contact & Collaboration
-This project is a contribution from an independent thinker with limited resources, aiming to ensure responsible AI usage and data protection for all. If you are a researcher, developer, ethicist, policymaker, or an organization interested in discussing, collaborating on, or potentially developing these concepts further (including the details found in the linked repositories), please feel free to reach out:
-
-Creator: Rijal Saepuloh
-Email: rijal028official@gmail.com
-
-Untuk penjelasan yang lebih mendalam mengenai mekanisme dan arsitektur, silakan lihat dokumen berikut:
-
-* **[Bab 1: AdaptiveSpiderWeb-MechanismDetails](MECHANISM_DETAILS.md)**
-* **[Bab 2: VerificationApplication-AdaptiveWeb
-Pub](VERIFICATION_APP.md)**
-* **[Bab 3: JOURNAL_RISET](JOURNAL_RISET.md)** 
+**Creator:** Rijal Saepuloh
+**Email:** rijal028official@gmail.com

@@ -34,14 +34,6 @@ Designed to make AI-generated outputs fail or become illogical.
 Provides tamper-evidence if the web's structure is broken.
 A comprehensive explanation of the "Adaptive Spider Web" concept, including its layered architecture, dynamic behavior, handling of multiple subjects, secondary object protection, and the conceptual verification application, can be found in the following dedicated repositories:
 
-# Adaptivespiderweb-MechanismDetail
-
-(https://github.com/rijal028/AdaptiveSpiderWeb-MechanismDetails.git)
-(In-depth technical and conceptual explanation of the core 'Adaptive Spider Web' mechanism for visual media protection. Focuses on its structure, dynamic adaptation, layered defense strategies against generative AI, and conceptual integration with camera applications.)
-
-# VerificationApplication-AdaptiveWeb
-(https://github.com/rijal028/VerificationApplication-AdaptiveWeb.git)
-(Conceptual design of Verification Application for ‘Adaptive Noise Spider Web’ system. Detailing the manipulation detection method, visual evidence output mechanism and its linkage with ‘Adaptive Web Concept Hub’.)
 
 Public Disclosure & Intent
 This project and its concepts are publicly disclosed on GitHub by Rijal Saepuloh as of May 2025. The primary purpose of this public disclosure is to establish prior art and to share these ideas with the broader community. This is done with the intent to foster discussion, further research, and potential development towards responsible AI, especially given the current limitations in pursuing formal patent protection.
@@ -54,3 +46,9 @@ This project is a contribution from an independent thinker with limited resource
 
 Creator: Rijal Saepuloh
 Email: rijal028official@gmail.com
+
+Untuk penjelasan yang lebih mendalam mengenai mekanisme dan arsitektur, silakan lihat dokumen berikut:
+
+* **[Bab 1: Detail Mekanisme Pertahanan](MECHANISM_DETAILS.md)**
+* **[Bab 2: Konsep Aplikasi Verifikasi](VERIFICATION_APP.md)**
+* **[Bab 3: JOURNAL_RISET](JOURNAL_RISET.md)** 
